@@ -124,3 +124,4 @@ logs/
 *.pdf
 *.gz
 bert_model/
+*.h5
