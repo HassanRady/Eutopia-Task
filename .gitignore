@@ -125,5 +125,5 @@ logs/
 *.gz
 bert_model/
 *.h5
-*.pkl
+# *.pkl
 transformers_master/
